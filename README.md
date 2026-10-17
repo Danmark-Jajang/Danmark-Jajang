@@ -44,7 +44,6 @@
 | [**STARS**](https://github.com/SentryRookies/Front-STARS) | 서울시 관광지 혼잡도 관제 시스템 (SK쉴더스 루키즈 최종 프로젝트) | 프런트엔드 – SSE 실시간 모니터링 UI, 로그인·관리자 화면 | React, TypeScript, SSE |
 | [**Re:Use**](https://github.com/SkProject2/sk_pjt2_back_chat) | 실시간 채팅 중고거래 플랫폼 | 채팅 서버 개발, 문의 메일(SMTP) 연동 | Spring Boot, STOMP, Kafka, Redis, Docker |
 | [**니가가라 AI**](https://github.com/Danmark-Jajang/sk_pjt3_back) | RAG 기반 서울 여행 추천 챗봇 | RAG 데이터 구축, 환각 개선 프롬프트 설계 | Python, Flask, OpenAI, LlamaIndex |
-| [**LEA**](https://github.com/Danmark-Jajang/LEA) | 경량 블록 암호 LEA 구현 | 개인 구현 | C |
 
 <br>
 
