@@ -3,9 +3,6 @@
 **정보보호학**을 전공하고, **Java·Spring Boot 백엔드**를 중심으로 프런트엔드와 생성형 AI까지 경험한 개발자입니다.
 문제가 생기면 데이터와 근거로 원인을 확인하고, 배운 기술은 프로젝트에 바로 적용하며 익힙니다.
 
-- 📫 Email: lightning0145@gmail.com
-- 📝 Blog: [danmarkjajang.tistory.com](https://danmarkjajang.tistory.com)
-
 <br>
 
 ## 🛠 Tech Stack
